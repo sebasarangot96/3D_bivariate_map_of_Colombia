@@ -60,12 +60,11 @@ Here is the final rendered map:
 
 🙏 Acknowledgments
 This workflow is based on the repository
-milos-agathon/3d-bivariate-climate-maps,
+
+![Githun milos-agathon/3d-bivariate-climate-maps ](https://github.com/milos-agathon/3d-bivariate-climate-maps/tree/main)
 with several modifications and adjustments, including:
 
 Adaptation to Colombia using GADM boundaries
-
-Integration of CHELSA V2.1 climate data (BIO1 and BIO12)
 
 Improved CRS handling and raster alignment with terra
 
