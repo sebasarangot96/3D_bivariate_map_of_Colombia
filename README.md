@@ -33,8 +33,9 @@ Retrieved from elevatr
 
 HDRI Lighting
 PolyHaven HDRIs
+```
 
-▶️ Usage
+## ▶️ Usage
 Clone this repository:
 
 bash
@@ -54,11 +55,11 @@ legend.png – bivariate legend
 
 colombia-bivariate-3d-legend.png – final map with legend overlay
 
-📊 Output Example
+## 📊 Output Example
 Here is the final rendered map:
 
 
-🙏 Acknowledgments
+## 🙏 Acknowledgments
 This workflow is based on the repository
 
 ![Githun milos-agathon/3d-bivariate-climate-maps ](https://github.com/milos-agathon/3d-bivariate-climate-maps/tree/main)
@@ -72,6 +73,6 @@ Automated download and error handling for CHELSA data
 
 Custom overlay of bivariate legend using magick
 
-📄 License
+## 📄 License
 This repository is released under the MIT License.
 Please cite CHELSA and GADM when using the data.
