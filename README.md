@@ -55,10 +55,6 @@ legend.png – bivariate legend
 
 colombia-bivariate-3d-legend.png – final map with legend overlay
 
-## 📊 Output Example
-Here is the final rendered map:
-
-
 ## 🙏 Acknowledgments
 This workflow is based on the repository of Milos Agathon
 
