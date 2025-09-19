@@ -7,8 +7,9 @@ This repository contains an R workflow to create a **3D bivariate map of Colombi
 - **3D rendering** with `rayshader`  
 
 The result is a high-quality map where **temperature and precipitation** are represented in color, while **topography** is represented in relief.
-
+![Colombia bivariate 3D map](map/colombia-bivariate-3d-legend.png)
 ---
+
 
 ## 🔧 Requirements
 
