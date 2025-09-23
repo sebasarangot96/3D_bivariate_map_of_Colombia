@@ -58,7 +58,7 @@ colombia-bivariate-3d-legend.png – final map with legend overlay
 ## 🙏 Acknowledgments
 This workflow is based on the repository of Milos Agathon
 
-[Githun milos-agathon/3d-bivariate-climate-maps ](https://github.com/milos-agathon/3d-bivariate-climate-maps/tree/main)
+[Github milos-agathon/3d-bivariate-climate-maps ](https://github.com/milos-agathon/3d-bivariate-climate-maps/tree/main)
 with several modifications and adjustments, including:
 
 Adaptation to Colombia using GADM boundaries
